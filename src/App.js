@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
-     <ExpenseItem></ExpenseItem>
+    {x()}
   
 
     </div>
@@ -38,9 +38,9 @@ let x= function() {
   ];
 
   return  (
-for (let d in expenses){
-  
-}
+
+    <ExpenseItem></ExpenseItem>
+
 
   )
 
